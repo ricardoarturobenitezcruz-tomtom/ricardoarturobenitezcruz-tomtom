@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ricardo Benitez
 - 👀 I’m interested in sports, games, movies, series and good food.
-- 🌱 I’m currently learning Python3 advanced features.
+- 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on open source and collaborate to make tomtom services and products great.
 - 📫 How to reach me: On Slack
 
